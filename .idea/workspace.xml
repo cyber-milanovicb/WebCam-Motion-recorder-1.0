@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="818329d4-7c85-42b6-8a4f-b73a2c053eaa" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/WebCam Movement.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0000157756134407" />
+      <entry key="S2" value="1.071860628984959" />
+      <entry key="S5" value="1.6366007922066892" />
+      <entry key="S10" value="2.784702052127046" />
+      <entry key="S30" value="6.035098916923347" />
+      <entry key="S60" value="8.364141235693722" />
+      <entry key="M2" value="10.241849419058143" />
+      <entry key="M5" value="11.759903588684091" />
+      <entry key="M10" value="12.353787971096011" />
+      <entry key="M15" value="12.56309501963069" />
+      <entry key="M30" value="12.778424648634994" />
+      <entry key="H1" value="12.888417300228" />
+      <entry key="H2" value="12.944008073010446" />
+      <entry key="H4" value="12.971953662530566" />
+      <entry key="D1" value="12.99531859444361" />
+      <entry key="W1" value="12.999331055701644" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="1.0653824246930193E-120" />
+      <entry key="MS500" value="1.0127482522402053E-24" />
+      <entry key="S2" value="1.034185820940983E-6" />
+      <entry key="S5" value="0.0049783736291448425" />
+      <entry key="S10" value="0.09463580326564273" />
+      <entry key="S30" value="0.7140095230317397" />
+      <entry key="S60" value="1.1930010826477822" />
+      <entry key="M2" value="1.5440215000481665" />
+      <entry key="M5" value="1.803165560369018" />
+      <entry key="M10" value="1.8990023843728725" />
+      <entry key="M15" value="1.9320812471443687" />
+      <entry key="M30" value="1.9657436455968222" />
+      <entry key="H1" value="1.9827969197252053" />
+      <entry key="H2" value="1.99137965112565" />
+      <entry key="H4" value="1.9956851129668414" />
+      <entry key="D1" value="1.9992801967483103" />
+      <entry key="W1" value="1.9998971549015567" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.7474246243174691" />
+      <entry key="MS500" value="0.9434528683833049" />
+      <entry key="S2" value="1.0559932505185639" />
+      <entry key="S5" value="1.6269094860640645" />
+      <entry key="S10" value="2.8446053847362447" />
+      <entry key="S30" value="6.6832519575884515" />
+      <entry key="S60" value="9.503078997552771" />
+      <entry key="M2" value="11.750929358931257" />
+      <entry key="M5" value="13.54671316917168" />
+      <entry key="M10" value="14.244167287918145" />
+      <entry key="M15" value="14.489324695187118" />
+      <entry key="M30" value="14.741190052058807" />
+      <entry key="H1" value="14.869711788615234" />
+      <entry key="H2" value="14.934633156054632" />
+      <entry key="H4" value="14.967260650226452" />
+      <entry key="D1" value="14.994535653209505" />
+      <entry key="W1" value="14.99921918802009" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3KkJwMWx4P6zS8f6uwC1M1zJHM0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.motion_recorder.executor&quot;: &quot;Run&quot;,
+    &quot;Python.motion_recorder_smart (1).executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;python.packages.toolwindow.project.migrated.to.right.top.v2&quot;: &quot;true&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Python.motion_recorder_smart (1)">
+    <configuration name="motion_recorder_smart (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="WebCam Movement" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/motion_recorder_smart.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="motion_recorder_smart" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="WebCam Movement" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="C:\Users\Boris Milanovic\PycharmProjects\WebCam Movement\motion_recorder_smart.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.motion_recorder_smart (1)" />
+        <item itemvalue="Python.motion_recorder_smart" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-73a66231627c-5bd6d13a2a75-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-262.10968.92" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="818329d4-7c85-42b6-8a4f-b73a2c053eaa" name="Changes" comment="" />
+      <created>1792095870562</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1792095870562</updated>
+      <workItem from="1792107978754" duration="1375000" />
+      <workItem from="1792133676237" duration="996000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/WebCam_Movement$motion_recorder_smart__1_.coverage" NAME="motion_recorder_smart (1) Coverage Results" MODIFIED="1792133950594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
